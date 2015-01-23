@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapBookApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="colosseum">Colosseum</string>
+    <string name="great_wall_china">China Wall</string>
+    <string name="canada_cn">CN Tower</string>
+    <string name="opera_house">Opera House</string>
+    
+    <string name="descanadacn">The CN Tower (French: Tour CN) is a 553.33 m-high (1,815.4 ft) concrete communications and observation tower in Downtown Toronto, Ontario, Canada.Built on the former Railway Lands, it was completed in 1976, becoming the worlds tallest free-standing structure and worlds tallest tower at the time. It held both records for 34 years until the completion of Burj Khalifa and Canton Tower in 2010. It remains the tallest free-standing structure in the Western Hemisphere, a signature icon of Torontos skyline, and a symbol of Canada attracting more than two million international visitors annually</string>
+    <string name="des_sydney_opera_house">An opera house is a theatre building used for opera performances that consists of a stage, an orchestra pit, audience seating, and backstage facilities for costumes and set building. While some venues are constructed specifically for operas, other opera houses are part of larger performing arts centers.</string>
+     <string name="des_colosseum_">The Colosseum or Coliseum, also known as the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio or Colosseo) is an elliptical amphitheatre in the centre of the city of Rome, Italy. Built of concrete and stone, it was the largest amphitheatre of the Roman Empire, and is considered one of the greatest works of Roman architecture and engineering. It is the largest amphitheatre in the world.[</string>
+     <string name="des_greatwallof_china">The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe. </string>
+    
+   
+
+</resources>

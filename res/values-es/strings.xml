@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapBookApp</string>
+    
+    <string name="action_settings">Ajustes</string>
+    
+    <string name="colosseum">Coliseo</string>
+    <string name="great_wall_china">China Wall</string>
+    <string name="canada_cn">Torre CN</string>
+    <string name="opera_house">Ópera</string>
+    
+    <string name="descanadacn">La Torre CN (francés : Visita CN) es un 553,33 m de altura ( 1,815.4 pies) de comunicaciones concretas y torre de observación en el centro de Toronto , Ontario , Canada.Built en los antiguos terrenos ferroviarios , que se completó en 1976 , convirtiéndose en el más alto del mundo libre -Parado estructura y mundos torre más alta en el momento . Sostuvo ambos registros durante 34 años hasta la finalización del Burj Khalifa y Torre de Cantón en 2010. Sigue siendo la estructura más alta de independiente en el hemisferio occidental , un icono de la firma del horizonte Torontos , y un símbolo de Canadá atrayendo a más de dos millones de internacional visitantes al año</string>
+    <string name="des_sydney_opera_house">Un teatro de ópera es un edificio del teatro se utiliza para representaciones de ópera que consiste en una etapa, un foso de orquesta , Asientos en audiencia , y las instalaciones de backstage para los trajes y la construcción de conjunto . Mientras que algunos lugares se construyen específicamente para óperas , otros teatros de ópera son parte de grandes centros de artes escénicas .</string>
+     <string name="des_colosseum_">El Coliseo o el Coliseo , también conocido como el Anfiteatro Flavio (latín: Anfiteatro Flavio , italiano : Anfiteatro Flavio o Coliseo) es un anfiteatro elíptico en el centro de la ciudad de Roma , Italia . Construido en hormigón y piedra, que era el mayor anfiteatro del Imperio Romano , y es considerada una de las más grandes obras de la arquitectura romana y de la ingeniería . Es el anfiteatro más grande del mundo.</string>
+     <string name="des_greatwallof_china">La Gran Muralla China es una serie de fortificaciones de piedra , ladrillo , tierra apisonada , madera, y otros materiales, en general, construido a lo largo de una línea de este a oeste a través de las fronteras norte históricas de China para proteger a los estados e imperios chinos contra las incursiones e invasiones de los diversos grupos nómadas de la estepa eurasiática .</string>
+    
+   
+
+</resources>
